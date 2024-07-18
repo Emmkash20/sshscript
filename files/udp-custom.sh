@@ -10,17 +10,17 @@ ln -fs /usr/share/zoneinfo/Africa/Nairobi /etc/localtime
 
 # install udp-custom
 echo "downloading udp-custom"
-mkdir -p /root/udp && cd /root/udp && wget -q https://raw.githubusercontent.com/genome96/scupdate/main/udp/udp-custom-linux-amd64
+mkdir -p /root/udp && cd /root/udp && wget -q https://raw.githubusercontent.com/Emmkash20/sshscript/main/udp/udp-custom-linux-amd64
 chmod +x /root/udp/udp-custom
 
 echo "downloading default config"
-cd /root/udp && wget -q https://raw.githubusercontent.com/genome96/scupdate/main/udp/config.json
+cd /root/udp && wget -q https://raw.githubusercontent.com/Emmkash20/sshscript/main/udp/config.json
 chmod 644 /root/udp/config.json
 
 if [ -z "$1" ]; then
 cat <<EOF > /etc/systemd/system/udp-custom.service
 [Unit]
-Description=UDP Custom by Darkanon
+Description=UDP Custom by emmkash
 
 [Service]
 User=root

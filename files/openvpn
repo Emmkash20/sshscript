@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Developer » Darkanonc
-# Email      » darkanoncc@gmail.com
-# telegram   » https://t.me/darkanonc
-# whatsapp   » wa.me/+254706376682
+# Developer » emmkash
+# Email      » emmkash@gmail.com
+# telegram   » https://t.me/emmkash
+# whatsapp   » wa.me/+254112735877
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Darkanonc
+# emmkash
 
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;

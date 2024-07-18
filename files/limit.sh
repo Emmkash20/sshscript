@@ -1,14 +1,14 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Developer » Darkanonc
-# Email      » darkanoncc@gmail.com
-# telegram   » https://t.me/darkanonc
-# whatsapp   » wa.me/+254706376682
+# Developer » emmkash
+# Email      » emmkash20@gmail.com
+# telegram   » https://t.me/emmkash
+# whatsapp   » wa.me/+254112735877
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Darkanonc
+# Emmkash
 
-REPO="https://raw.githubusercontent.com/genome96/scupdate/main/"
+REPO="https://raw.githubusercontent.com/Emmkash20/sshscript/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}files/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limitvless.service "${REPO}files/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limittrojan.service "${REPO}files/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1

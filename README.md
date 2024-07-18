@@ -3,20 +3,20 @@
 Enter the command below to install
 
 ```
-apt update && apt upgrade -y && apt install -y bzip2 gzip wget init coreutils openssl git screen curl jq && wget -q https://raw.githubusercontent.com/genome96/scupdate/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+apt update && apt upgrade -y && apt install -y bzip2 gzip wget init coreutils openssl git screen curl jq && wget -q https://raw.githubusercontent.com/Emmkash20/sshscript/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
 
 ## IP PERMISSION AUTOSCRIPT SPECIAL MEMBER!
 
 WhatsApp Darkanon:
-<br><br><a href="https://wa.me/+254706378862" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<br><br><a href="https://wa.me/+254705243111" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT
 
 Enter the command below if there is information about Script updates for upcoming versions
 
 ```
-wget -q https://raw.githubusercontent.com/genome96/scupdate/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/emmkash20/scupdate/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## TESTED ON OS
@@ -88,7 +88,7 @@ wget -q https://raw.githubusercontent.com/genome96/scupdate/main/update.sh && ch
 
 ## SCRIPT MENU DISPLAY
 
-![img 1](https://github.com/Darkanonx/scupdate/blob/main/menu.jpg?raw=true)
+![img 1](https://github.com/Emmkash20/sshscript/blob/main/menu.jpg?raw=true)
 
 ## NOTES AND AUTOSCRIPT RENTAL MECHANISM
 
@@ -99,11 +99,11 @@ wget -q https://raw.githubusercontent.com/genome96/scupdate/main/update.sh && ch
 ## TESTIMONIALS
 
 Whatsapp & Telegram:
-<br><br><a href="https://t.me/testiDarkanon" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=0088cc"></a>
-<br><br><a href="https://whatsapp.com/channel/0029VaaRHbjJENy5s37rOl0U" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Channel&message=Click%20Here&color=#006400">
+<br><br><a href="https://t.me/test" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=0088cc"></a>
+<br><br><a href="https://whatsapp.com/channel/0029VaU" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Channel&message=Click%20Here&color=#006400">
 
 ## WHATSAPP MEMBER GROUP CHAT!
 
 Group Chat:
-<br><br><a href="https://chat.whatsapp.com/ENzsH813IKzLbARWtB6Ysl" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
-<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6PhbeCMTiI1" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 2&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 1&message=Click%20Here&color=#006400">
+<br><br><a href="https://chat.whatsapp.com/H3hhaEWqQkR6Phb" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Group 2&message=Click%20Here&color=#006400">
